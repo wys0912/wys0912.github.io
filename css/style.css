@@ -1500,13 +1500,13 @@ article pre .txt {
 #daodream-container .daodream-sheet-spinner {
   border-radius: 50% !important;
   overflow: hidden;
-  background-image: url("/images/head/call.jpg") !important;
+  background-image: url("/images/my/yuban.png") !important;
 }
 #daodream-container .daodream-launcher-button {
   width: 80px !important;
   height: 80px !important;
   background-color: #4956e6 !important;
-  background-image: url("/images/head/call.jpg") !important;
+  background-image: url("/images/my/yuban.png") !important;
   background-size: 100% 100% !important;
   border-radius: 50% !important;
   animation: mybutton 8s;
