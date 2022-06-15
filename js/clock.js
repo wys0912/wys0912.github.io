@@ -53,7 +53,7 @@ data.seconds.el.addEventListener('transitionend', () => {
   data.hours.el.classList.remove('moving');
   data.minutes.el.classList.remove('moving');
   data.seconds.el.classList.remove('moving');
-
+  console.log("clock");
   // if (data.hours.val == 360) {
   //   data.hours.el.style.transform = 'translate(-50%, -75%) rotate(0deg)';
   // }
